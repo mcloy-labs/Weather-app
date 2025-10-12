@@ -31,8 +31,8 @@ This is a mobile application that provides users with real-time weather informat
 
 To run the React Native Weather App locally on your machine, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/Kalutu/weather-app`
-2. Change into the project directory: `cd weather-app`
+1. Clone the repository
+2. Change into the project directory
 3. Install dependencies: `npm install` or `yarn install`
 4. Obtain an API key from a weather API provider (e.g., OpenWeatherMap).
 5. Set up environment variables:
